@@ -1,10 +1,11 @@
 # Sanika's First CS193 Homework
-## Welcome to GitHub Pages
 
-### My favorite things about CS193!!
+## My favorite things about CS193!!
 - Learning to use github
 - Learning about different cs tools
 - Getting advice from upperclassmen
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
